@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "843756206331",
+    "firebase_url": "https://hitch-v1.firebaseio.com",
+    "project_id": "hitch-v1",
+    "storage_bucket": "hitch-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843756206331:android:776497416cf75494",
+        "android_client_info": {
+          "package_name": "com.itproject.hitch_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843756206331-kpcsd80tlfq63hseu9rhj35ff0tmcpfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAceiOJ6ULUV5cMs2GK8I0Z3CwKHB3LDk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

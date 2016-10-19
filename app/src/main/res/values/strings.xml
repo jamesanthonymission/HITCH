@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hitch-v1</string>
+    <string name="project_title">A Mobile Application that could give multiple passengers a ride.</string>
+    <string name="minimum_password">Input atleast 8 characters</string>
+    <string name="auth_failed">Authentication Failed</string>
+    <string name="login_error">The email/password you enter is invalid.</string>
+    <string name="facebook_app_id">130070200780457</string>
+    <string name="error_title">Error!</string>
+    <string name="title_activity_driver_map">Map</string>
+</resources>

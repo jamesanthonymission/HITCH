@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="158dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/BtnFindLocation"
+        android:onClick="btnonclick"
+        android:hint="search address"
+        android:alpha="0.5"
+        android:layout_gravity="right"
+        android:layout_alignBottom="@+id/SearchLocation"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:id="@+id/SearchLocation"
+        android:hint="Enter Location"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/BtnFindLocation"
+        android:layout_toEndOf="@+id/BtnFindLocation" />
+</RelativeLayout>
